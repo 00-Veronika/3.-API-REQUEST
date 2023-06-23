@@ -1,12 +1,12 @@
 const products = [
     {name:"Cat 1","category":"cat1","price":10,"quantity":20, image: './cats/cat.jpg'},
-    {name:"Cat 2","category":"cat1","price":12,"quantity":17, image: './cats/cat2.jpg'},
-    {name:"Cat 3","category":"cat1","price":7,"quantity":25,  image: './cats/cat3.jpg'},
-    {name: "Cat 4","category":"cat2","price":19,"quantity":35, image: './cats/cat4.jpg'},
+    {name:"Cat 2","category":"cat1","price":12,"quantity":17, image: './cats/cat.jpg'},
+    {name:"Cat 3","category":"cat1","price":7,"quantity":25,  image: './cats/cat.jpg'},
+    {name: "Cat 4","category":"cat2","price":19,"quantity":35, image: './cats/cat.jpg'},
     {name: "Cat 5","category":"cat2","price":53,"quantity":34, image: './cats/cat.jpg'},
     {name: "Cat 6","category":"cat2","price":11,"quantity":32, image: './cats/cat.jpg'},
-    {name: "Cat 7","category":"cat3","price":55,"quantity":44, image: './cats/cat2.jpg'},
-    {name: "Cat 8","category":"cat3","price":57,"quantity":43, image: './cats/cat4.jpg'},
+    {name: "Cat 7","category":"cat3","price":55,"quantity":44, image: './cats/cat.jpg'},
+    {name: "Cat 8","category":"cat3","price":57,"quantity":43, image: './cats/cat.jpg'},
     {name: "Cat 9","category":"cat3","price":22,"quantity":19, image: './cats/cat.jpg'},
 ];
 
